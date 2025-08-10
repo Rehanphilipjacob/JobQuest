@@ -36,7 +36,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/jobquest.git](https://github.com/your-username/jobquest.git)
+git clone [https://github.com/Rehanphilipjacob/JobQuest.git](https://github.com/Rehanphilipjacob/JobQuest.git)
 cd jobquest
 ```
 
