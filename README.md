@@ -7,8 +7,6 @@ JobQuest is a modern and responsive web application for browsing, adding, and ma
 -   **Browse Jobs**: View all available job listings on a clean, responsive interface.
 -   **View Job Details**: Click on any job to see a detailed description, salary, and company information.
 -   **Add a Job**: Easily add new job listings through a dedicated form with clear input fields.
--   **Edit a Job**: Update the details of any existing job listing.
--   **Delete a Job**: Remove job listings with a simple confirmation prompt.
 -   **Responsive Design**: The UI is fully responsive and looks great on desktops, tablets, and mobile devices.
 -   **User Notifications**: Integrated `react-toastify` to provide clear feedback for actions like adding, updating, and deleting jobs.
 -   **404 Page**: A custom "Not Found" page for handling invalid routes.
