@@ -1,0 +1,88 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Front-End Developer to join our team in Bengaluru, Karnataka. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "location": "Bengaluru, Karnataka",
+      "salary": "₹7L - ₹8L per annum",
+      "company": {
+        "name": "TechSphere Solutions",
+        "description": "TechSphere Solutions is a leading IT company specializing in software development and digital transformation. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@techsphere.in",
+        "contactPhone": "+91-80-1234-5678"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Full-Time",
+      "location": "Mumbai, Maharashtra",
+      "description": "Join our team as a Front-End Developer in Mumbai, Maharashtra. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "salary": "₹6L - ₹7.5L per annum",
+      "company": {
+        "name": "InnoWave Technologies",
+        "description": "InnoWave Technologies is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@innowave.in",
+        "contactPhone": "+91-22-9876-5432"
+      }
+    },
+    {
+      "id": "3",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "location": "Hyderabad, Telangana",
+      "description": "Are you passionate about front-end development? Join our team in vibrant Hyderabad, Telangana, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+      "salary": "₹7L - ₹8.5L per annum",
+      "company": {
+        "name": "CloudNexa",
+        "description": "CloudNexa is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "contactEmail": "contact@cloudnexa.in",
+        "contactPhone": "+91-40-1234-5678"
+      }
+    },
+    {
+      "id": "4",
+      "title": "React Front-End Developer",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Front-End Developer in Pune, Maharashtra. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
+      "location": "Pune, Maharashtra",
+      "salary": "₹5L - ₹6L per annum",
+      "company": {
+        "name": "Alpha Digitals",
+        "description": "Alpha Digitals is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "contact@alphadigitals.in",
+        "contactPhone": "+91-20-6789-4321"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack React Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time Front-End Developer in Chennai, Tamil Nadu. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+      "location": "Chennai, Tamil Nadu",
+      "salary": "₹9L - ₹10.5L per annum",
+      "company": {
+        "name": "Browning Technologies India",
+        "description": "Browning Technologies India is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@browningtech.in",
+        "contactPhone": "+91-44-1234-5678"
+      }
+    },
+    {
+      "id": "6",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in Gurugram, Haryana. We are looking for a skilled and enthusiastic individual to help us create innovative mobile and web solutions. Competitive salary and great benefits package available.",
+      "location": "Gurugram, Haryana",
+      "salary": "₹10L - ₹12L per annum",
+      "company": {
+        "name": "Port Solutions India",
+        "description": "Port Solutions India is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@portsolutions.in",
+        "contactPhone": "+91-124-567-8900"
+      }
+    }
+  ]
+}
